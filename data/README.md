@@ -9,14 +9,8 @@ __audible_metadata_filtered.csv__
 __audible_mungingdata.csv__
 - Data result from csv_data_munging code, contain asins list for scrape_metadata code
 
-__csv__
-- Contain converted audio to text data, each csv represent 1 audio exceprts
-
 __Genre name csv in corpus folder__
 - Each csv contain full document text and labeling for each genre binary model (1 as main genre, 0 as other genres)
-
-__mp3 folder__
-- Contain downloaded mp3 files
 
 __prepared_corpus.csv__
 - All document full text and genre label
