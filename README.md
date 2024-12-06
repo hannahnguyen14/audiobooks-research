@@ -12,9 +12,12 @@ This repository contains the complete pipeline and analysis for a project aimed 
 
 ## Repository Structure
 data/: Contains raw and processed datasets, including scraped audiobook metadata and text-transcribed excerpts.
+
 scrape/: Includes Python scripts for data scraping.
-dev/: Includes Python scripts for data preprocessing.
-ultilities/: Includes Python scripts for feature extraction, model training, and evaluation.
+
+dev/: Includes Python scripts for data preprocessing. 
+
+utilities/: Includes Python scripts for feature extraction, model training, and evaluation.
 
 ## Key Results
 Top predictive terms for each genre reveal genre-specific linguistic patterns.
@@ -33,5 +36,5 @@ Extend the analysis to multi-class classification for a holistic understanding o
 - Advisor: Dr. Matthew Lavin - email: lavinm@denison.edu
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request.
 
-Contact
+## Contact:
 For any inquiries, please contact Hannah Nguyen at nguyen_n4@denison.edu.
