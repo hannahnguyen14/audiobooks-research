@@ -2,7 +2,8 @@
 
 __csv_data_munging.ipynb__
 
-- Code to clean and merge 2 founded dataframe. Result is a csv files with shuffled asins to try scraping
+- Code to clean and merge 2 founded csv files. Result is a csv files with shuffled asins to try scraping.
+- Download csv files from https://towardsdatascience.com/scraping-and-sentiment-analysis-of-1-5-million-audible-reviews-3502fa6bc86c & https://towardsdatascience.com/scraping-and-exploring-the-entire-english-audible-catalog-ea279cd09f88
 
 __download_mp3.py
 - Code to download mp3 files from url
